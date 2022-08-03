@@ -41,5 +41,12 @@ file.unlink('demo2.txt',(err)=>{
 })*/
 
 
+/* s1.exists('dummy.txt',(err)=>{
+     
+      if(err)console.log('found');
+      else console.log("NOt found");
+})
+*/
+
 
 
